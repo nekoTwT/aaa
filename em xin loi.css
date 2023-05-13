@@ -1,0 +1,30 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+.banner{
+    border: 1px rgb(red, green, blue) groove;
+    margin: 5px 10px 5px 10px ;
+    text-align: center;
+    background-color: rgb(238, 17, 153);
+}
+.name_banner{
+    font-size: 60px;
+    color: aliceblue;
+    font-weight: bold;
+    width: 98%;
+}
+.h1{
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 7px;
+    border: 1px dashed rgb(238, 17, 153);
+    width: 750px;
+    height: 55px;
+    text-align: center;
+    margin: 0px;
+    padding: 20px,15px,20px,15px;
+    font-weight: bold;
+    align-items: center;
+}
